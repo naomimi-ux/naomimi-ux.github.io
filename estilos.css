@@ -304,7 +304,7 @@ h4 {
 }
 
 .pagina {
-    background-image: url("imagenes/fondo.jpg");
+    background-image: url("fondo.jpg");
     background-size: cover;
     background-position: center;
 }
